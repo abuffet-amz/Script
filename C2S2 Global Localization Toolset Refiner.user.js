@@ -6,6 +6,9 @@
 // @author       abuffet@
 // @match        https://issues.amazon.com/*
 // @icon         https://m.media-amazon.com/images/G/01/Anywhere/c2s2blurbs.PNG
+// @updateURL    https://github.com/abuffet-amz/Script/raw/refs/heads/main/C2S2%20Global%20Localization%20Toolset%20Refiner.user.js
+// @downloadURL  https://github.com/abuffet-amz/Script/raw/refs/heads/main/C2S2%20Global%20Localization%20Toolset%20Refiner.user.js
+
 // @run-at       document-end
 
 // ==/UserScript==
