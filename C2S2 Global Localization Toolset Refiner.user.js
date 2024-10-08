@@ -15,7 +15,7 @@
 // ==/UserScript==
 
 // Add a dropdown menu for quick response in Issues page
-if (window.location.href.match('issues.amazon.com')) {
+if (window.location.href.match('sim.amazon.com|issues.amazon.com')) {
 
     // Dropdown functionality for quick responses
     function addDropdown() {
