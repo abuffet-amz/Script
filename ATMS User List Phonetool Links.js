@@ -7,6 +7,8 @@
 // @match        https://atms.a2z.com/web/user/list*
 // @match        https://web.atms.a2z.com/web/user/list*
 // @grant        none
+// @updateURL    https://github.com/abuffet-amz/Script/raw/refs/heads/main/ATMS%20User%20List%20Phonetool%20Links.js
+// @downloadURL  https://github.com/abuffet-amz/Script/raw/refs/heads/main/ATMS%20User%20List%20Phonetool%20Links.js
 // @run-at       document-end
 // ==/UserScript==
 
